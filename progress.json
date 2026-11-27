@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 1,
-  "updatedAt": "2026-11-27T11:15:00Z",
+  "revision": 2,
+  "updatedAt": "2026-11-27T11:48:22Z",
   "plans": [
     {
       "id": "launcher",
@@ -154,12 +154,14 @@
         {
           "id": "070-admit",
           "label": "Допуск точной версии сервером и восстановление соединения",
-          "verified": false
+          "verified": true,
+          "evidence": "native-acceptance.json"
         },
         {
           "id": "070-hangar",
           "label": "Родной ангар с действующей учётной записью и выбор машины",
-          "verified": false
+          "verified": true,
+          "evidence": "native-acceptance.json"
         },
         {
           "id": "070-garage",
@@ -189,7 +191,8 @@
         {
           "id": "070-queue",
           "label": "Обычная очередь, отмена и подбор составов",
-          "verified": false
+          "verified": true,
+          "evidence": "native-acceptance.json"
         },
         {
           "id": "070-load",
@@ -397,7 +400,7 @@
           "id": "0.7.0",
           "label": "0.7.0",
           "verified": false,
-          "detail": "6 из 26 сценариев версии"
+          "detail": "9 из 26 сценариев версии"
         },
         {
           "id": "0.7.1",
