@@ -1,6 +1,6 @@
 # Vintage Tanks Launcher
 
-Для Windows x64 доступна предварительная сборка 4.4 preview.3. В неё включена калибровка боекомплекта для оригинального клиента 0.7.0. Запуск этой калибровки откроется на игровом сервере, когда тот объявит поддержку её точной версии. [Скачать preview.3](https://github.com/Mellin-A/Vintage-Tanks-Distribution/releases/download/launcher-4.4-preview.3/VintageTanksLauncher-4.4-Windows-x64.zip) · [Все выпуски лаунчера](https://github.com/Mellin-A/Vintage-Tanks-Distribution/releases?q=launcher-4.4-preview)
+Для Windows x64 доступна предварительная сборка 4.4 preview.4. В редакторе профиля оригинального клиента 0.7.0 доступны 15 общих настроек и 5 настроек выбранного игрока. После первого входа в ангар и выхода из игры откройте «Настройки игры» → «Профиль клиента 0.7.0», выберите игрока и нажмите «Сохранить в клиенте». [Скачать preview.4](https://github.com/Mellin-A/Vintage-Tanks-Distribution/releases/download/launcher-4.4-preview.4/VintageTanksLauncher-4.4-Windows-x64.zip) · [Все выпуски лаунчера](https://github.com/Mellin-A/Vintage-Tanks-Distribution/releases?q=launcher-4.4-preview)
 
 Здесь лаунчер получает файлы библиотеки и интеграции с проектом. В каталоге выпуска указаны путь, размер и SHA-256 каждого архива. Лаунчер скачивает конкретную ревизию GitHub и проверяет контрольную сумму до установки.
 
