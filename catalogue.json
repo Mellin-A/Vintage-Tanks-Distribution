@@ -10,8 +10,8 @@
     {
       "edition": "0.7.0",
       "path": "packages/calibration-070.zip",
-      "bytes": 1954416,
-      "sha256": "f4580aae5188da35e6dfe00ed546ec67194b0a78533727320bd2b7c7a89df65b",
+      "bytes": 2090511,
+      "sha256": "40a4bfa357af3fca28027cb38dd085519e684951619011f744f892b7c1e6c6cd",
       "requiresLocalOriginal": true,
       "kind": "native-calibration"
     },
