@@ -6,6 +6,26 @@
       "bytes": 10359156,
       "sha256": "ebd6b3403315a9cd39f4b7ff1fb3d3b5d9b005b4b8291e13dae63c68988b3f74",
       "packages": 30004
+    },
+    {
+      "edition": "0.7.0",
+      "path": "packages/calibration-070.zip",
+      "bytes": 1954356,
+      "sha256": "bb9ce58b2231f65b97977b5430397241452d8e6d6afca91daedcbad0dc3613bc",
+      "requiresLocalOriginal": true,
+      "kind": "native-calibration"
+    },
+    {
+      "edition": "0.8.11",
+      "path": "packages/calibration-0811.zip",
+      "bytes": 296268,
+      "sha256": "6eecf0117d519085465495495e7abff39da5b558ebc045df0bb6d39446165496",
+      "requiresLocalOriginal": true,
+      "kind": "native-calibration"
     }
-  ]
+  ],
+  "looseCatalogue": {
+    "path": "packs/index.json",
+    "sha256": "fbaa26950db5055d15b56ff7ee2239c3b1a235ff4e2472db0798bf35918caa63"
+  }
 }
