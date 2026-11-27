@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "archives": [
+    {
+      "path": "packages/launcher-4.4.zip",
+      "bytes": 10359156,
+      "sha256": "ebd6b3403315a9cd39f4b7ff1fb3d3b5d9b005b4b8291e13dae63c68988b3f74",
+      "packages": 30004
+    }
+  ]
+}
