@@ -10,16 +10,16 @@
     {
       "edition": "0.7.0",
       "path": "packages/calibration-070.zip",
-      "bytes": 1954413,
-      "sha256": "60070b3a5fa1bd41b953b3c637d9e925303ea820872974827b186840095f22b3",
+      "bytes": 1954416,
+      "sha256": "f4580aae5188da35e6dfe00ed546ec67194b0a78533727320bd2b7c7a89df65b",
       "requiresLocalOriginal": true,
       "kind": "native-calibration"
     },
     {
       "edition": "0.8.11",
       "path": "packages/calibration-0811.zip",
-      "bytes": 296268,
-      "sha256": "6eecf0117d519085465495495e7abff39da5b558ebc045df0bb6d39446165496",
+      "bytes": 296274,
+      "sha256": "85aebbaa559dddbee9067ad219172414c334acff90746690bd65bd1c6b6d2c08",
       "requiresLocalOriginal": true,
       "kind": "native-calibration"
     }
