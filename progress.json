@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 2,
-  "updatedAt": "2026-11-27T11:48:22Z",
+  "revision": 3,
+  "updatedAt": "2026-11-27T12:46:42Z",
   "plans": [
     {
       "id": "launcher",
@@ -197,7 +197,8 @@
         {
           "id": "070-load",
           "label": "Родная загрузка карты и появление обеих команд",
-          "verified": false
+          "verified": true,
+          "evidence": "native-acceptance.json"
         },
         {
           "id": "070-drive",
@@ -400,7 +401,7 @@
           "id": "0.7.0",
           "label": "0.7.0",
           "verified": false,
-          "detail": "9 из 26 сценариев версии"
+          "detail": "10 из 26 сценариев версии"
         },
         {
           "id": "0.7.1",
